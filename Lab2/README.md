@@ -44,3 +44,12 @@ Definitions
 Rules
 %%
 User Functions
+
+---
+
+# Software Requirements
+
+- macOS/Linux/Windows
+- Flex(lex)
+- GCC Compiler
+
