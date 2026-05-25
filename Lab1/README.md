@@ -132,18 +132,7 @@ Executable File
 
 ---
 
-# Algorithm / Procedure
 
-1. Write a C program in VS Code.
-2. Save the file with `.c` extension.
-3. Open the terminal in VS Code.
-4. Execute preprocessing using GCC.
-5. Compile the preprocessed file into assembly code.
-6. Assemble the assembly code into an object file.
-7. Link the object file to generate the executable.
-8. Run the executable file and observe the output.
-
----
 
 # Sample Program
 
