@@ -1,7 +1,5 @@
 # C Compilation Pipeline – Lab Report
 
-## Title
-**Study of the C Compilation Pipeline Using GCC Compiler**
 
 ---
 
@@ -225,27 +223,3 @@ The C program was successfully compiled through all stages of the compilation pi
 The experiment successfully demonstrated the complete C Compilation Pipeline using GCC. The stages of preprocessing, compilation, assembly, and linking were studied in detail. Understanding these stages helps programmers gain deeper knowledge of how high-level C code is transformed into executable machine code.
 
 ---
-
-# Viva Questions
-
-## 1. What is the purpose of preprocessing?
-
-Preprocessing expands macros, includes header files, and removes comments.
-
-## 2. What is an object file?
-
-An object file contains machine code generated after assembly but before linking.
-
-## 3. What is linking?
-
-Linking combines object files and libraries to create the final executable file.
-
-## 4. Which command generates assembly code?
-
-```bash
-gcc -S filename.c
-```
-
-## 5. What is the role of GCC?
-
-GCC is a compiler collection used to compile C, C++, and other programming languages.
