@@ -235,15 +235,6 @@ Target Machine Code
 
 ---
 
-# Advantages of Compiler Design
-
-- Faster program execution.
-- Early error detection.
-- Machine-independent programming.
-- Improved code optimization.
-- Efficient memory and resource utilization.
-
----
 
 
 ---
