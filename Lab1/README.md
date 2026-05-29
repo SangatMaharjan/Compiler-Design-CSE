@@ -245,13 +245,6 @@ Target Machine Code
 
 ---
 
-# Applications
-
-- Programming language development.
-- Operating systems.
-- Embedded systems.
-- Database management systems.
-- Software development tools.
 
 ---
 
