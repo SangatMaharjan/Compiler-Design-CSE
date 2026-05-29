@@ -260,17 +260,3 @@ Target Machine Code
 A compiler transforms high-level source code into executable machine code through multiple phases. Each phase performs a specific task, from token generation and syntax validation to optimization and code generation. Understanding these phases is essential for learning compiler design and the internal working of programming languages.
 
 ---
-
-## 📚 References
-
-1. *Compilers: Principles, Techniques, and Tools* (Dragon Book) – Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman.
-2. Compiler Design Lecture Notes.
-3. Programming Language Processing Concepts.
-
----
-
-### Author
-
-**Your Name**
-
-Compiler Design Project / Assignment
